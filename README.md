@@ -9,3 +9,6 @@ The `picom.conf` file is a file I found on the internet and it needs to be modif
 # mango #
 
 My mango config uses `SUPER` as the main key, `rofi -show drun` as the application launcher(SUPER+space), `foot` as the terminal emulator (SUPER+Return)
+
+# background.jpg #
+![Description](background.jpg)
